@@ -8,7 +8,7 @@
       <p><b></b></p>
     </td>
     <td width="25%">
-      <img src="liugyuoyuan.jpg" width="100%">      % 插入证件照代码
+      <img src="liugyuoyuan.jpg" width="100%">    微信图片_20200205203820.jpg  % 插入证件照代码
     </td>
   </tr>
 </table>
